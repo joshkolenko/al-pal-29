@@ -2,7 +2,6 @@ import Lottie from "react-lottie";
 import background from "./animations/balloon-background.json";
 // import presents from "./animations/presents.json";
 import Slideshow from "./components/Slideshow";
-import { FaArrowDown } from "react-icons/fa";
 import { LuPartyPopper } from "react-icons/lu";
 
 export default function App() {
