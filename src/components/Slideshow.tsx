@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import { images } from "./constants";
+import { images } from "../constants/images";
 import { FaPause } from "react-icons/fa";
 
 export default function Images() {
